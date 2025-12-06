@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - ⚛️ **Physics Base:** UNIST 물리학 전공 | 현상의 본질을 파고드는 논리적 사고
-- 🏭 **Domain Expertise:** 前 **SK Hynix** 공정 R&D 엔지니어 (1년) | 대용량 공정 데이터 핸들링 경험
+- 🏭 **Domain Expertise:** 前 **SK Hynix** 공정 R&D 엔지니어 | 대용량 공정 데이터 핸들링 경험
 - 💻 **Tech Shift:** **Naver Boostcamp AI Tech** 수료 | 백준 Gold V | 데이터 엔지니어링 & MLOps 역량 확보
 - 🎯 **Focus:** Product Analytics, Data Engineering, MLOps, Growth Hacking
 
@@ -47,6 +47,5 @@
 
 ### 📫 Contact
 
-- 📧 Email: [본인의이메일주소@gmail.com]
-- 📝 Blog: [본인의블로그주소(Velog/Tistory)]
+- 📧 Email: [wnstj480@unist.ac.kr]
 - 🌐 Portfolio: [포트폴리오 웹사이트 링크(만약 있다면)]
