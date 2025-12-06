@@ -48,4 +48,4 @@
 ### 📫 Contact
 
 - 📧 Email: [wnstj480@unist.ac.kr]
-- 🌐 Portfolio: [포트폴리오 웹사이트 링크(만약 있다면)]
+- 🌐 Portfolio: [https://junseo-son.github.io/index.html]
