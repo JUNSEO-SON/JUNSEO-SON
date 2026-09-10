@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Junseo! (수정 중 Fact 아닌 사실 있음)
+### 👋 Hi there, I'm Junseo!
 
 **Data Analyst & Analytics Engineer** based in Seoul, Korea.  
 *"물리학적 사고와 공정 엔지니어링 경험을 데이터 분석에 접목합니다."*
